@@ -1,6 +1,8 @@
-# js-sample
+# Book store app
 
 ## Description
+
+Book store API built with nest js
 
 
 
